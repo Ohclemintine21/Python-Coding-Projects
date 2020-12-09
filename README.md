@@ -1,7 +1,7 @@
 # Python-Coding-Projects
 
 
-During this course at the Tech Academy I obtained a large amount of knowledge programming with Python. 
+I obtained a large amount of knowledge programming with Python. 
 Python is (scripting language example: Ruby or Perl) designed to make code easy to read and simple to implement.
 Below is a snippet of code created by using Python.
 
